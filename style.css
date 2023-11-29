@@ -3,16 +3,16 @@ header{
 }
 
 .bgColor{
-    background-color:darkgrey;
+    background-color:bisque;
 }
 
 .wColor{
-    color:blue;
+    color:rgb(244, 161, 9);
 }
 
 .tColor{
     font-style: bold;
-    color: darkcyan;
+    color: rgb(245, 120, 141);
 }
 
 .hover a:hover{
@@ -28,4 +28,12 @@ header{
 
 .unOrderList{
     list-style-type: circle ;
+}
+.src{
+    width: 90px;
+    height: 32px;
+}
+.div{
+    display: inline;
+    float: right;
 }
